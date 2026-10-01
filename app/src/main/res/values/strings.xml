@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Calculadora Nómina</string>
+
+    <string name="titulo_nomina">Calculadora de Nómina Colombiana</string>
+
+    <string name="salario_basico">Salario básico mensual</string>
+    <string name="horas_diurnas">Horas extra diurnas</string>
+    <string name="horas_nocturnas">Horas extra nocturnas</string>
+
+    <string name="domingo_festivo">¿Es domingo o festivo?</string>
+    <string name="transporte_empresa">¿La empresa proporciona transporte?</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="error_salario">Ingresa un salario válido.</string>
+    <string name="error_salario_minimo">El salario debe ser igual o mayor al SMMLV.</string>
+    <string name="error_horas">Las horas extra deben ser números válidos y no negativos.</string>
+    <string name="error_horas_maximas">El total de horas extra no puede superar 48.</string>
+
+    <string name="resultado_nomina">Resultado de la nómina</string>
+
+    <string name="valor_hora">Valor hora: %1$s</string>
+    <string name="total_horas_extra">Total horas extra: %1$s</string>
+    <string name="auxilio_transporte">Auxilio de transporte: %1$s</string>
+    <string name="total_devengado">Total devengado: %1$s</string>
+
+    <string name="aporte_salud">Aporte salud: %1$s</string>
+    <string name="aporte_pension">Aporte pensión: %1$s</string>
+    <string name="fondo_solidaridad">Fondo de solidaridad: %1$s</string>
+    <string name="total_deducciones">Total deducciones: %1$s</string>
+
+    <string name="salario_neto">Salario neto: %1$s</string>
+
+    <string name="rango_1_descripcion">Rango salarial: Hasta 2 SMMLV</string>
+    <string name="rango_2_descripcion">Rango salarial: Más de 2 y menos de 4 SMMLV</string>
+    <string name="rango_3_descripcion">Rango salarial: 4 SMMLV o más</string>
+
+    <string name="imagen_rango_1">Imagen del rango salarial 1</string>
+    <string name="imagen_rango_2">Imagen del rango salarial 2</string>
+    <string name="imagen_rango_3">Imagen del rango salarial 3</string>
+
+</resources>
